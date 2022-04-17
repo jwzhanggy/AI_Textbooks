@@ -1,4 +1,4 @@
-# AI_Textbook
+# AI_Textbooks
 
 # The Art of Artificial Intelligence
 
