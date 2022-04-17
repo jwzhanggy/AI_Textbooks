@@ -4,14 +4,14 @@
 
 ## Volume 1: Foundation Knowledge
 
-### Linear Algebra
+### Chapter 1: Linear Algebra
 
-### Probability and Statistics
+### Chapter 2: Probability and Statistics
 
-### Stochastic Optimization
+### Chapter 3: Stochastic Optimization
 
-### Computer Science Basics
+### Chapter 4: Computer Science Basics
 
-### Machine Learning Basics
+### Chapter 5: Machine Learning Basics
 
-### Neural Network Basics
+### Chapter 6: Neural Network Basics
