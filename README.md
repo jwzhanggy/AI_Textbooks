@@ -10,7 +10,7 @@
 
 ### Chapter 3: Stochastic Optimization
 
-## Part 1: CS Foundation
+## Part 2: CS Foundation
 
 ### Chapter 4: Computer Science Basics
 
