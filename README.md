@@ -1,5 +1,3 @@
-# AI_Textbooks
-
 # The Art of Artificial Intelligence
 
 ## Volume 1: AI Foundation Knowledge
