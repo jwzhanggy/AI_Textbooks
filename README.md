@@ -2,7 +2,7 @@
 
 # The Art of Artificial Intelligence
 
-## Volume 1: Foundation Knowledge
+## Volume 1: AI Foundation Knowledge
 
 ### Chapter 1: Linear Algebra
 
