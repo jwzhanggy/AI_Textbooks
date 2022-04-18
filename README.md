@@ -1,4 +1,4 @@
-# The Art of Artificial Intelligence
+# The Art of Artificial Intelligence (Open Book)
 
 ## Volume 1: AI Foundation Knowledge
 
